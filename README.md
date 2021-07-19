@@ -15,7 +15,7 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - https://www.anquanke.com/post/id/233410 (ZH)
 - https://www.freebuf.com/articles/web/267623.html (ZH)
 - https://cloud.tencent.com/developer/article/1590955 (ZH)
-- Shameless elf promotion 2(https://y4y.space/2021/06/25/taking-a-peek-at-ysosreial-commoncollection1-gadget/)(EN)
+- Shameless self promotion 2(https://y4y.space/2021/06/25/taking-a-peek-at-ysosreial-commoncollection1-gadget/)(EN)
 
 #### Development
 - https://lgtm.com/rules/1823453799/ (EN)
