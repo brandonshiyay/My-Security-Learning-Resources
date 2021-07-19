@@ -15,7 +15,7 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - https://www.anquanke.com/post/id/233410 (ZH)
 - https://www.freebuf.com/articles/web/267623.html (ZH)
 - https://cloud.tencent.com/developer/article/1590955 (ZH)
-- Shameless self promotion 2(https://y4y.space/2021/06/25/taking-a-peek-at-ysosreial-commoncollection1-gadget/)(EN)
+- Shameless self promotion 2(https://y4y.space/2021/06/25/taking-a-peek-at-ysosreial-commoncollection1-gadget/) (EN)
 
 #### Development
 - https://lgtm.com/rules/1823453799/ (EN)
@@ -43,12 +43,12 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 
 
 ## Java JNDI Injection
-- Shameless self promotion 1(https://y4y.space/2021/06/04/learning-jndi-injection-from-cve-2021-21985/)(EN)
+- Shameless self promotion 1(https://y4y.space/2021/06/04/learning-jndi-injection-from-cve-2021-21985/) (EN)
 
 ## Java Spring (Boot) FrameWork
 ### Theory
-- Beans (https://blog.csdn.net/weixin_43232955/article/details/105755021)(ZH)
-- Beans (https://blog.csdn.net/qq_39411208/article/details/88395875)(ZH)
+- Beans (https://blog.csdn.net/weixin_43232955/article/details/105755021) (ZH)
+- Beans (https://blog.csdn.net/qq_39411208/article/details/88395875) (ZH)
 
 # Code Review
 
@@ -91,7 +91,7 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - 
 
 ### Research
-- Shameless self promotion 3 (https://y4y.space/2021/06/25/a-research-on-generating-codeql-database-for-close-sourced-applications/)(EN)
+- Shameless self promotion 3 (https://y4y.space/2021/06/25/a-research-on-generating-codeql-database-for-close-sourced-applications/) (EN)
 
 # CTF
 
