@@ -3,33 +3,35 @@ A collections of good security articles I have come across.
 Note that this repository does **NOT** have any actual contents than a list of urls.
 Also not all articles are in English, but with the Google Translate browser extension there should be no issue understanding the most of contents. I will be noting the source language though.
 
-Most articles may not be beginner friendly, just saying. The layout is also pretty messed up, will clean things up in the future (I guess).
+Most articles may not be beginner friendly, just saying. The layout is also pretty messed up, will clean things up in the future (I hope).
 
 # Web
 
-## Java Deserialization
+## Deserialization 
+### Java Deserialization
 
-### Theory
+#### Theory
 - https://medium.com/swlh/hacking-java-deserialization-7625c8450334 (EN)
 - https://www.anquanke.com/post/id/233410 (ZH)
 - https://www.freebuf.com/articles/web/267623.html (ZH)
 - https://cloud.tencent.com/developer/article/1590955 (ZH)
+- Shameless elf promotion 2(https://y4y.space/2021/06/25/taking-a-peek-at-ysosreial-commoncollection1-gadget/)(EN)
 
-### Development
+#### Development
 - https://lgtm.com/rules/1823453799/ (EN)
 - https://wiki.sei.cmu.edu/confluence/display/java/SER12-J.+Prevent+deserialization+of+untrusted+data (EN)
 
-### CodeQL
+#### CodeQL
 - https://securitylab.github.com/research/insecure-deserialization (EN)
 
 
-### Exploitation
+#### Exploitation
 - https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2 (EN)
 - https://github.com/frohoff/ysoserial (EN)
 - https://xz.aliyun.com/t/9344 (ZH)
 
-## PHP Deserialization
-### Theory
+### PHP Deserialization
+#### Theory
 - https://vickieli.medium.com/diving-into-unserialize-pop-chains-35bc1141b69a (EN)
 
 
@@ -39,6 +41,14 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - https://www.freebuf.com/articles/web/267506.html (ZH)
 - https://www.anquanke.com/post/id/86075 (ZH)
 
+
+## Java JNDI Injection
+- Shameless self promotion 1(https://y4y.space/2021/06/04/learning-jndi-injection-from-cve-2021-21985/)(EN)
+
+## Java Spring (Boot) FrameWork
+### Theory
+- Beans (https://blog.csdn.net/weixin_43232955/article/details/105755021)(ZH)
+- Beans (https://blog.csdn.net/qq_39411208/article/details/88395875)(ZH)
 
 # Code Review
 
@@ -73,10 +83,15 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - https://github.com/xsser/codeql_chinese (ZH)
 
 ## Developing \ Real Life Example
+### General Learning Series
+- https://www.4hou.com/search-post?page=2&keywords=codeql (ZH)
+
 ### Java
 - https://cloud.tencent.com/developer/article/1621363 (ZH)
 - 
 
+### Research
+- Shameless self promotion 3 (https://y4y.space/2021/06/25/a-research-on-generating-codeql-database-for-close-sourced-applications/)(EN)
 
 # CTF
 
