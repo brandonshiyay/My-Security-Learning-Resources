@@ -17,6 +17,7 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - https://cloud.tencent.com/developer/article/1590955 (ZH)
 - Shameless self promotion 2(https://y4y.space/2021/06/25/taking-a-peek-at-ysosreial-commoncollection1-gadget/) (EN)
 
+
 #### Development
 - https://lgtm.com/rules/1823453799/ (EN)
 - https://wiki.sei.cmu.edu/confluence/display/java/SER12-J.+Prevent+deserialization+of+untrusted+data (EN)
@@ -29,6 +30,7 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2 (EN)
 - https://github.com/frohoff/ysoserial (EN)
 - https://xz.aliyun.com/t/9344 (ZH)
+- https://www.anquanke.com/post/id/230788 (ZH)
 
 ### PHP Deserialization
 #### Theory
@@ -72,6 +74,7 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - 
 
 ### V8
+- this guy has an entire series on V8 (https://www.anquanke.com/member.html?memberId=161290) (ZH)
 
 # CodeQL
 
@@ -88,10 +91,13 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 
 ### Java
 - https://cloud.tencent.com/developer/article/1621363 (ZH)
-- 
+- JDK Proxy related (https://www.jianshu.com/p/269afd0a52e6) (ZH)
 
 ### Research
 - Shameless self promotion 3 (https://y4y.space/2021/06/25/a-research-on-generating-codeql-database-for-close-sourced-applications/) (EN)
+
+# BlockChain
+- Devansh's entire series on blockchain security (https://devansh.xyz/posts/) (EN)
 
 # CTF
 
@@ -103,3 +109,13 @@ Most articles may not be beginner friendly, just saying. The layout is also pret
 - PHP Disabled Functions Bypass (https://www.anquanke.com/post/id/240036) (ZH)
 - PHP Dangerous Functions (https://chybeta.github.io/2017/08/08/php%E4%BB%A3%E7%A0%81-%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/) (ZH)
 - All Talks\Presentations By Orange Tsai (https://github.com/orangetw/My-Presentation-Slides) (ZH/EN)
+
+# Vulnerability/CVE Analysis
+- testanull's blog (https://testbnull.medium.com/) (VI)
+- my blog, I mean I didn't analyze many but here you go (https://y4y.space) (EN)
+- follow Orange Tsai's twitter
+
+# OSCP
+- ippsec's video
+- hackthebox
+- as of December of 2021, to be fair, OSCP is not that hard to pass, it's more about enumeration. The buffer overflow machine is a freebie, don't skip that shit. There are literally a million write ups/posts on how to take on OSCP, just search for your own benefit.
